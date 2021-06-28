@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NightEye Camera</string>
+    <string name="portrait_camera">Portrait Camera</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="you_have_just_taken_below_picture">You have just taken below picture</string>
+    <string name="app_record">Record Video</string>
+    <string name="landscape_activity">Landscape Camera</string>
+    <string name="portrait_mode">Portrait Mode</string>
+    <string name="landscape_mode">Landscape Mode</string>
+    <string name="click_to_start">Click + to start</string>
+    <string name="record_button">Record_Button</string>
+    <string name="capture_button">Capture_Button</string>
+</resources>
